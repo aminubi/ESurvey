@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">E-Survey</string>
+    <string name="body">Victim Support Fund</string>
+    <string name="title_activity_home">Home</string>
+    <string name="name">Name</string>
+    <string-array name="state">
+        <item>Adamawa</item>
+        <item>Borno</item>
+        <item>Yobe</item>
+    </string-array>
+    <string-array name="lga">
+        <item> Abadam</item>
+        <item> Askira/Uba</item>
+        <item> Bama</item>
+        <item> Bayo</item>
+        <item>Biu</item>
+        <item> Chibok</item>
+        <item> Damboa</item>
+        <item> Dikwa</item>
+        <item> Gubio</item>
+        <item>  Guzamala</item>
+        <item> Gwoza</item>
+        <item> Hawul</item>
+        <item> Jere</item>
+        <item> Kaga</item>
+        <item> Kala/Balge</item>
+        <item> Konduga</item>
+        <item> Kukawa</item>
+        <item>  Kwaya Kusar</item>
+        <item> Mafa</item>
+        <item> Magumeri</item>
+        <item> Maiduguri</item>
+        <item>  Marte</item>
+        <item> Mobbar</item>
+        <item> Monguno</item>
+        <item> Ngala</item>
+        <item> Nganzai</item>
+        <item> Shani</item>
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="general_information">GENERAL INFORMATION</string>
+    <string name="state">State:</string>
+    <string name="lga">LGA:</string>
+    <string name="gender_of_household_head">GENDER OF HOUSEHOLD HEAD</string>
+    <string name="berfore_insurgent">BERFORE INSURGENT</string>
+    <string name="after_insurgent">AFTER INSURGENT</string>
+</resources>
