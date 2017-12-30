@@ -33,7 +33,7 @@ public class MainActivity extends Activity {
                     edtpass.setError("Password is not entered");
                     edtpass.requestFocus();
                 }
-                else if((edtuser.getText().toString().equals("aminu21@gmail.com")) && (edtpass.getText().toString().equals("vsfapp")))
+                else if((edtuser.getText().toString().equals("")) && (edtpass.getText().toString().equals("")))
                 {
                     // Write your code here to execute after dialog closed
                     //Toast.makeText(getApplicationContext(), "You clicked on OK", Toast.LENGTH_SHORT).show();
